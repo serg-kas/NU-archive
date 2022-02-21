@@ -1,4 +1,4 @@
-# NN-archive
+# NU-archive
 Университет искуственного интеллекта.
 
 https://neural-university.ru/
